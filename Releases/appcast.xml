@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>InventoryWatch</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Sat, 03 Jun 2023 10:15:29 -0600</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2352808" type="application/octet-stream" sparkle:edSignature="q2D0Gtoor/PRjY7S9HCJ9YZiI9xOL7/K4Rw7aYiy27ox76Rto3dQbYEwAif62B1aU6ENrWqKynRc4ArxItUxBg=="/>
+        </item>
+    </channel>
+</rss>
