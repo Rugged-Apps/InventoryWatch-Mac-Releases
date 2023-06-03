@@ -2,7 +2,7 @@
 Repo to serve InventoryWatch macOS app updates 
 
 # Update Process
-_Note: If all else fails, just follow this Sparkle guide: `https://troz.net/post/2023/sparkle/`_
+_Note: If all else fails, just follow this Sparkle guide: https://troz.net/post/2023/sparkle/_
 
 1. Make any/all necessary changes to the app, bump the version/build number, and commit to `main` (if necessary)
 2. Archive the build, notarize (via Xcode), and export the notarized build
