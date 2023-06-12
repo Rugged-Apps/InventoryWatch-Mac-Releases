@@ -4,6 +4,20 @@
         <title>InventoryWatch</title>
         <item>
             <title>2.0.0</title>
+            <pubDate>Mon, 12 Jun 2023 16:18:59 -0600</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Fixed issue with local notifications</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2697191" type="application/octet-stream" sparkle:edSignature="DlrN3wnA6ZqvN+uhJYxzg+M1B9wULOauRumLpBb/WbceRDAzZeVYW47JHVigt3MjkEVkJIH1qbqlekj+Flr6CA=="/>
+        </item>
+        <item>
+            <title>2.0.0</title>
             <pubDate>Mon, 12 Jun 2023 15:19:05 -0600</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
@@ -30,14 +44,6 @@
                 </ul>
             ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2345591" type="application/octet-stream" sparkle:edSignature="4oNd0IU0i5xdzXESQ22jH2IZ+WgjiHCrWnFoVzFZixn9Z0ptzVp1UxfQk7tNy5ztj/+cs4adZi75zptSPdlfCA=="/>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Sat, 03 Jun 2023 10:15:29 -0600</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2352808" type="application/octet-stream" sparkle:edSignature="q2D0Gtoor/PRjY7S9HCJ9YZiI9xOL7/K4Rw7aYiy27ox76Rto3dQbYEwAif62B1aU6ENrWqKynRc4ArxItUxBg=="/>
         </item>
     </channel>
 </rss>
