@@ -3,6 +3,22 @@
     <channel>
         <title>InventoryWatch</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Wed, 20 Sep 2023 11:23:56 -0600</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v2.0.1</h2>
+                <ul>
+                    <li>Sped up inventory refresh interval to 1min (from 5min)</li>
+                    <li>Added icon support for the iPhone 15 lineup and Apple Watch Ultra 2</li>
+                    <li>Other minor tweaks and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2647357" type="application/octet-stream" sparkle:edSignature="UkO25ZYM/VBTw+2jWWUnFMS4hQPlTkkOn2MS70CcBYKlj/AUX+5qYqfEzCcblQAGpm4XA2bHvpCgBi0n5yriBA=="/>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Mon, 12 Jun 2023 16:18:59 -0600</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -30,20 +46,6 @@
                 </ul>
             ]]></description>
             <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2697880" type="application/octet-stream" sparkle:edSignature="qBjxa5vkZXcQlMgwFBxKnGZDz2Wg12hoUkioiorHG4Eb46+tdV7PnYfYLwhX9EjCV65M1dTA3OpD1a83+RvODQ=="/>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Sat, 03 Jun 2023 13:12:28 -0600</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <ul>
-                    <li>Testing the update process :)</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/Rugged-Apps/InventoryWatch-Mac-Releases/main/Releases/InventoryWatch.dmg" length="2345591" type="application/octet-stream" sparkle:edSignature="4oNd0IU0i5xdzXESQ22jH2IZ+WgjiHCrWnFoVzFZixn9Z0ptzVp1UxfQk7tNy5ztj/+cs4adZi75zptSPdlfCA=="/>
         </item>
     </channel>
 </rss>
